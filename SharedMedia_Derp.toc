@@ -1,5 +1,5 @@
-## Interface: 100007
-## Title: |cFFFFFF00<WA Soundpack>|r |cff69ccf0by Chunks|r
+## Interface: 100100
+## Title: |cFFFFFF00<WA Soundpack>|r |cff69ccf0by Chunks for Derp|r
 
 libs\LibStub\LibStub.lua
 libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
