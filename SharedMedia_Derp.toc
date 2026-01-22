@@ -1,4 +1,4 @@
-## Interface: 100200
+## Interface: 120000
 ## Title: |cFFFFFF00<WA Soundpack>|r |cff69ccf0by Chunks for Derp|r
 
 libs\LibStub\LibStub.lua
